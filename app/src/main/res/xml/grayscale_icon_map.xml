@@ -578,6 +578,7 @@
     <icon drawable="@drawable/themed_icon_inter" name="MISSING" package="br.com.intermedium" />
     <icon drawable="@drawable/themed_icon_internshala" name="Internshala" package="com.internshala.app" />
     <icon drawable="@drawable/themed_icon_intersvyaz" name="MISSING" package="com.intersvyaz.lk" />
+    <icon drawable="@drawable/themed_icon_irctc_rail" name="IRCTC Rail Connect" package="cris.org.in.prs.ima" />
     <icon drawable="@drawable/themed_icon_ivi" name="MISSING" package="ru.ivi.client" />
     <icon drawable="@drawable/themed_icon_ivy_wallet" name="Ivy Wallet" package="com.ivy.wallet" />
     <icon drawable="@drawable/themed_icon_ivy_wallet" name="MISSING" package="com.ivy.wallet" />
