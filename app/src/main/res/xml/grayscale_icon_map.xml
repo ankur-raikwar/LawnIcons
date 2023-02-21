@@ -215,6 +215,7 @@
     <icon drawable="@drawable/themed_icon_by_u" name="by.U-The All-Digital Provider" package="com.byu.id" />
     <icon drawable="@drawable/themed_icon_c6_bank" name="C6 Bank" package="com.c6bank.app" />
     <icon drawable="@drawable/themed_icon_caixa" name="CAIXA" package="br.com.gabba.Caixa" />
+    <icon drawable="@drawable/themed_icon_calculator" name="Calculator" package="com.android.calculator" />
     <icon drawable="@drawable/themed_icon_calculator" name="Calculator" package="com.android.calculator2" />
     <icon drawable="@drawable/themed_icon_calculator" name="Google Calculator" package="com.google.android.calculator" />
     <icon drawable="@drawable/themed_icon_calculator_plus_plus" name="Calculator ++" package="org.solovyev.android.calculator" />
@@ -310,6 +311,7 @@
     <icon drawable="@drawable/themed_icon_coinvero" name="Candlestick Signals Patterns" package="com.candlestick_app" />
     <icon drawable="@drawable/themed_icon_colorwaver" name="Colorwaver" package="com.mrousavy.colorwaver" />
     <icon drawable="@drawable/themed_icon_companion" name="Home Assistant" package="io.homeassistant.companion.android" />
+    <icon drawable="@drawable/themed_icon_compass" name="Compass" package="org.android.compass" />
     <icon drawable="@drawable/themed_icon_compass" name="Compass" package="apps.r.compass" />
     <icon drawable="@drawable/themed_icon_contacts" name="Google Contacts" package="com.google.android.contacts" />
     <icon drawable="@drawable/themed_icon_contacts" name="docomo phonebook" package="com.android.contacts" />
