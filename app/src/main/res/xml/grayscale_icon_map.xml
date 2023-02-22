@@ -351,6 +351,7 @@
     <icon drawable="@drawable/themed_icon_dialer" name="Phone by Google" package="com.google.android.dialer" />
     <icon drawable="@drawable/themed_icon_dialer" name="Phone" package="com.android.dialer" />
     <icon drawable="@drawable/themed_icon_didup_famiglia" name="didUP - Famiglia" package="it.argosoft.didup.famiglia.new" />
+    <icon drawable="@drawable/themed_icon_digilocker" name="Digilocker" package="com.digilocker.android" />
     <icon drawable="@drawable/themed_icon_digital_wellbeing" name="Digital Wellbeing" package="com.google.android.apps.wellbeing" />
     <icon drawable="@drawable/themed_icon_diia" name="Дія" package="ua.gov.diia.app" />
     <icon drawable="@drawable/themed_icon_discord" name="Aliucord" package="com.aliucord" />
@@ -1009,6 +1010,7 @@
     <icon drawable="@drawable/themed_icon_sofa_score" name="MISSING" package="com.sofascore.results" />
     <icon drawable="@drawable/themed_icon_solid_explorer" name="Solid Explorer" package="pl.solidexplorer2" />
     <icon drawable="@drawable/themed_icon_solid_soundamplifier" name="Sound Amplifier" package="com.google.android.accessibility.soundamplifier" />
+    <icon drawable="@drawable/themed_icon_sony_liv" name="Sony Liv" package="com.sonyliv" />
     <icon drawable="@drawable/themed_icon_sony_music" name="Sony Music" package="com.sonyericsson.music" />
     <icon drawable="@drawable/themed_icon_soul_knight" name="Soul Knight" package="com.ChillyRoom.DungeonShooter" />
     <icon drawable="@drawable/themed_icon_soundcloud" name="SoundCloud" package="com.soundcloud.android" />
@@ -1209,6 +1211,7 @@
     <icon drawable="@drawable/themed_icon_google_wallpaper" name="Google Wallpaper" package="com.google.android.apps.wallpaper" />
     <icon drawable="@drawable/themed_icon_wallique" name="MISSING" package="dev.introdructor.wallique.app" />
     <icon drawable="@drawable/themed_icon_wallpaper_engine" name="Wallpaper Engine" package="io.wallpaperengine.weclient" />
+    <icon drawable="@drawable/themed_icon_warframe" name="Warframe" package="com.digitalextremes.warframenexus" />
     <icon drawable="@drawable/themed_icon_washington_post" name="Washington Post" package="com.washingtonpost.android" />
     <icon drawable="@drawable/themed_icon_wastickers" name="Stickers" package="com.handycloset.android.stickers" />
     <icon drawable="@drawable/themed_icon_wattpad" name="Wattpad" package="wp.wattpad" />
@@ -1231,6 +1234,7 @@
     <icon drawable="@drawable/themed_icon_whatsapp" name="MISSING" package="com.yowhatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp" name="WhatsApp Messenger" package="com.whatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp_business" name="WhatsApp Business" package="com.whatsapp.w4b" />
+    <icon drawable="@drawable/themed_icon_whereismytrain" name="Where is my Train" package="com.whereismytrain.android" />
     <icon drawable="@drawable/themed_icon_widepapers" name="MISSING" package="com.lagguy.widepapers" />
     <icon drawable="@drawable/themed_icon_wienmobil" name="WienMobil" package="at.wienerlinien.wienmobillab" />
     <icon drawable="@drawable/themed_icon_wild_rift" name="League of Legends: Wild Rift" package="com.riotgames.league.wildrift" />
