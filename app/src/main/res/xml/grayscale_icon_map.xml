@@ -1206,6 +1206,7 @@
     <icon drawable="@drawable/themed_icon_wallet_bet" name="Wallet" package="com.droid4you.application.wallet" />
     <icon drawable="@drawable/themed_icon_wallfever" name="MISSING" package="com.amaan.wallfever" />
     <icon drawable="@drawable/themed_icon_walli4k" name="Walli" package="com.shanga.walli" />
+    <icon drawable="@drawable/themed_icon_google_wallpaper" name="Google Wallpaper" package="com.google.android.apps.wallpaper" />
     <icon drawable="@drawable/themed_icon_wallique" name="MISSING" package="dev.introdructor.wallique.app" />
     <icon drawable="@drawable/themed_icon_wallpaper_engine" name="Wallpaper Engine" package="io.wallpaperengine.weclient" />
     <icon drawable="@drawable/themed_icon_washington_post" name="Washington Post" package="com.washingtonpost.android" />
