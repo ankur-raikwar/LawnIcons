@@ -698,7 +698,7 @@
     <icon drawable="@drawable/themed_icon_microsoft_launcher" name="Microsoft Launcher" package="com.microsoft.launcher" />
     <icon drawable="@drawable/themed_icon_microsoft_lens" name="Microsoft Lens" package="com.microsoft.office.officelens" />
     <icon drawable="@drawable/themed_icon_microsoft_math" name="Microsoft Math Solver" package="com.microsoft.math" />
-    <icon drawable="@drawable/themed_icon_microsoft_office" name="Microsoft Office" package="com.microsoft.office.officehubrow" />
+    <icon drawable="@drawable/themed_icon_microsoft_365" name="Microsoft 365" package="com.microsoft.office.officehubrow" />
     <icon drawable="@drawable/themed_icon_microsoft_onedrive" name="Microsoft OneDrive" package="com.microsoft.skydrive" />
     <icon drawable="@drawable/themed_icon_microsoft_onenote" name="Microsoft OneNote" package="com.microsoft.office.onenote" />
     <icon drawable="@drawable/themed_icon_microsoft_outlook" name="Microsoft Outlook" package="com.microsoft.office.outlook" />
