@@ -179,6 +179,7 @@
     <icon drawable="@drawable/themed_icon_betternet" name="Betternet VPN" package="com.freevpnintouch" />
     <icon drawable="@drawable/themed_icon_bgram" name="BGram" package="org.telegram.BifToGram" />
     <icon drawable="@drawable/themed_icon_bhim" name="BHIM Axis Pay" package="com.upi.axispay" />
+    <icon drawable="@drawable/themed_icon_bikewale" name="BikeWale" package="com.bikewale.app" />
     <icon drawable="@drawable/themed_icon_bilibili_comics" name="BILIBILI COMICS - Manga Reader" package="com.bilibili.comic.intl" />
     <icon drawable="@drawable/themed_icon_bima_plus" name="Bima+ Buy Pulsa/Package/Games" package="com.linkit.bimatri" />
     <icon drawable="@drawable/themed_icon_binance" name="Binance TR" package="com.cloud.tr" />
@@ -270,6 +271,7 @@
     <icon drawable="@drawable/themed_icon_canvas" name="Canva" package="com.canva.editor" />
     <icon drawable="@drawable/themed_icon_capcut" name="CapCut" package="com.lemon.lvoverseas" />
     <icon drawable="@drawable/themed_icon_cartogram" name="Cartogram - Live Map Wallpaper" package="com.round_tower.app.android.wallpaper.cartogram" />
+    <icon drawable="@drawable/themed_icon_carwale" name="CarWale" package="com.carwale" />
     <icon drawable="@drawable/themed_icon_castbox" name="Castbox" package="fm.castbox.audiobook.radio.podcast" />
     <icon drawable="@drawable/themed_icon_cat_and_soup" name="Cat and Soup" package="com.hidea.cat" />
     <icon drawable="@drawable/themed_icon_catogram" name="Catogram X" package="org.nift4.catox" />
@@ -358,6 +360,7 @@
     <icon drawable="@drawable/themed_icon_discord" name="Discord" package="com.discord" />
     <icon drawable="@drawable/themed_icon_discord_themer" name="Aliucord Themer" package="com.aliucord.themer" />
     <icon drawable="@drawable/themed_icon_disney_plus" name="Disney+" package="com.disney.disneyplus" />
+    <icon drawable="@drawable/themed_icon_disney_plus_hotstar" name="Disney+ Hotstar" package="in.startv.hotstar.dplus" />
     <icon drawable="@drawable/themed_icon_divisionresurgence" name="The Division Resurgence" package="com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg" />
     <icon drawable="@drawable/themed_icon_dmrc" name="Delhi Metro Rail" package="com.sraoss.dmrc" />
     <icon drawable="@drawable/themed_icon_docs_editors" name="Google Docs" package="com.google.android.apps.docs.editors.docs" />
@@ -800,6 +803,7 @@
     <icon drawable="@drawable/themed_icon_olx" name="MISSING" package="com.olx.olx" />
     <icon drawable="@drawable/themed_icon_olx" name="MISSING" package="com.schibsted.bomnegocio.androidApp" />
     <icon drawable="@drawable/themed_icon_olx" name="MISSING" package="kz.slando" />
+    <icon drawable="@drawable/themed_icon_olx_india" name="OLX India" package="com.olx.southasia" />
     <icon drawable="@drawable/themed_icon_one_dm_plus" name="1DM" package="idm.internet.download.manager" />
     <icon drawable="@drawable/themed_icon_one_dm_plus" name="MISSING" package="idm.internet.download.manager.plus" />
     <icon drawable="@drawable/themed_icon_onefootball" name="OneFootball" package="de.motain.iliga" />
@@ -1240,6 +1244,7 @@
     <icon drawable="@drawable/themed_icon_wild_rift" name="League of Legends: Wild Rift" package="com.riotgames.league.wildrift" />
     <icon drawable="@drawable/themed_icon_wildberries" name="Wildberries" package="com.wildberries.ru" />
     <icon drawable="@drawable/themed_icon_windscribe" name="Windscribe VPN" package="com.windscribe.vpn" />
+    <icon drawable="@drawable/themed_icon_wipro_next" name="Wipro Next Smart Home" package="wipro.com" />
     <icon drawable="@drawable/themed_icon_wireguard" name="WireGuard" package="com.wireguard.android" />
     <icon drawable="@drawable/themed_icon_wise" name="Wise" package="com.transferwise.android" />
     <icon drawable="@drawable/themed_icon_wish" name="Wish" package="com.contextlogic.wish" />
