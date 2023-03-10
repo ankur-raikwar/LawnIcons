@@ -1165,8 +1165,8 @@
     <icon drawable="@drawable/themed_icon_utorrent" name="µTorrent" package="com.utorrent.client" />
     <icon drawable="@drawable/themed_icon_vanced_manager" name="Vanced Manager v2" package="com.vanced.manager.origin" />
     <icon drawable="@drawable/themed_icon_vanced_manager" name="Vanced Manager" package="com.vanced.manager" />
-    <icon drawable="@drawable/themed_icon_vanced_music" name="YT Music Vanced" package="com.vanced.android.apps.youtube.music" />
-    <icon drawable="@drawable/themed_icon_vanced_youtube" name="YouTube Vanced" package="com.vanced.android.youtube" />
+    <icon drawable="@drawable/themed_icon_youtube_music" name="YT Music Vanced" package="com.vanced.android.apps.youtube.music" />
+    <icon drawable="@drawable/themed_icon_youtube" name="YouTube Vanced" package="com.vanced.android.youtube" />
     <icon drawable="@drawable/themed_icon_vectorassetcreator" name="MISSING" package="com.inglesdivino.vectorassetcreator" />
     <icon drawable="@drawable/themed_icon_venmo" name="Venmo" package="com.venmo" />
     <icon drawable="@drawable/themed_icon_vero" name="Vero" package="co.vero.app" />
