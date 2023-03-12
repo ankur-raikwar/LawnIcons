@@ -559,7 +559,6 @@
     <icon drawable="@drawable/themed_icon_homecredit" name="HomeCredit" package="kz.homecredit.ibank" />
     <icon drawable="@drawable/themed_icon_honkai_impact_3" name="Honkai Impact 3" package="com.miHoYo.bh3oversea" />
     <icon drawable="@drawable/themed_icon_hotels_com" name="Hotels.com" package="com.hcom.android" />
-    <icon drawable="@drawable/themed_icon_hotstar" name="Hotstar (Android TV)" package="in.startv.hotstar" />
     <icon drawable="@drawable/themed_icon_hoyolab" name="MISSING" package="com.mihoyo.hoyolab" />
     <icon drawable="@drawable/themed_icon_hryfine" name="HryFine" package="com.lianhezhuli.hyfit" />
     <icon drawable="@drawable/themed_icon_ibis_paint" name="ibis Paint X" package="jp.ne.ibis.ibispaintx.app" />
