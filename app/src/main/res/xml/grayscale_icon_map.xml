@@ -372,6 +372,7 @@
     <icon drawable="@drawable/themed_icon_dolbyatmos" name="Dirac Audio Tuner" package="com.oneplus.sound.tuner" />
     <icon drawable="@drawable/themed_icon_dolbyatmos" name="Dolby Atmos" package="com.atmos.daxappui" />
     <icon drawable="@drawable/themed_icon_dolbyatmos" name="Dolby Atmos" package="com.dolby.daxappui" />
+    <icon drawable="@drawable/themed_icon_dominos" name="Domino's" package="com.Dominos" />
     <icon drawable="@drawable/themed_icon_doodle" name="Doodle: Live Wallpapers" package="xyz.zedler.patrick.doodle" />
     <icon drawable="@drawable/themed_icon_doppelreim" name="Doppelreim" package="com.double_rhyme.hoenickf.doppelreim" />
     <icon drawable="@drawable/themed_icon_dota_underlords" name="Dota Underlords" package="com.valvesoftware.underlords" />
@@ -579,6 +580,7 @@
     <icon drawable="@drawable/themed_icon_instagram" name="MISSING" package="com.instander.android" />
     <icon drawable="@drawable/themed_icon_instagram" name="MISSING" package="com.instapro.android" />
     <icon drawable="@drawable/themed_icon_instapaper" name="Instapaper" package="com.instapaper.android" />
+    <icon drawable="@drawable/themed_icon_intel_unison" name="Intel Unison" package="com.intel.mde" />
     <icon drawable="@drawable/themed_icon_inter" name="MISSING" package="br.com.intermedium" />
     <icon drawable="@drawable/themed_icon_internshala" name="Internshala" package="com.internshala.app" />
     <icon drawable="@drawable/themed_icon_intersvyaz" name="MISSING" package="com.intersvyaz.lk" />
@@ -906,6 +908,7 @@
     <icon drawable="@drawable/themed_icon_radio_fm" name="Radio FM" package="com.radio.fmradio" />
     <icon drawable="@drawable/themed_icon_rahat_market" name="MISSING" package="frazex.com.inloya.rahat" />
     <icon drawable="@drawable/themed_icon_rainbow_six" name="Rainbow Six Mobile" package="com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter" />
+    <icon drawable="@drawable/themed_icon_rapido" name="Rapido" package="com.rapido.passenger" />
     <icon drawable="@drawable/themed_icon_rar" name="RAR" package="com.rarlab.rar" />
     <icon drawable="@drawable/themed_icon_rave" name="Rave – Watch Party" package="com.wemesh.android" />
     <icon drawable="@drawable/themed_icon_rboard" name="MISSING" package="de.dertyp7214.rboardthememanager" />
@@ -1018,7 +1021,9 @@
     <icon drawable="@drawable/themed_icon_sony_music" name="Sony Music" package="com.sonyericsson.music" />
     <icon drawable="@drawable/themed_icon_soul_knight" name="Soul Knight" package="com.ChillyRoom.DungeonShooter" />
     <icon drawable="@drawable/themed_icon_soundcloud" name="SoundCloud" package="com.soundcloud.android" />
+    <icon drawable="@drawable/themed_icon_soundwire" name="SoundWire" package="com.georgie.SoundWire" />
     <icon drawable="@drawable/themed_icon_sova_v_re" name="MISSING" package="re.sova.five" />
+    <icon drawable="@drawable/themed_icon_spacedesk" name="SpaceDesk" package="ph.spacedesk.beta" />
     <icon drawable="@drawable/themed_icon_spark_email" name="Spark" package="com.readdle.spark" />
     <icon drawable="@drawable/themed_icon_speedtest" name="Speedtest by Ookla" package="org.zwanoo.android.speedtest" />
     <icon drawable="@drawable/themed_icon_spike" name="MISSING" package="com.pingapp.app" />
