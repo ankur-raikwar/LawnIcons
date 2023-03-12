@@ -415,9 +415,9 @@
     <icon drawable="@drawable/themed_icon_exteragram" name="MISSING" package="com.exteragram.messenger.beta" />
     <icon drawable="@drawable/themed_icon_exterax" name="MISSING" package="com.moegram.messenger" />
     <icon drawable="@drawable/themed_icon_fabulous" name="Fabulous Daily Routine Planner" package="co.thefabulous.app" />
-    <icon drawable="@drawable/themed_icon_facebook_lcr" name="Facebook LCR" package="com.facebook.katpro" />
+    <icon drawable="@drawable/themed_icon_facebook" name="Facebook LCR" package="com.facebook.katpro" />
     <icon drawable="@drawable/themed_icon_facebook_lite" name="Facebook Lite" package="com.facebook.lite" />
-    <icon drawable="@drawable/themed_icon_facebook_s" name="Facebook" package="com.facebook.katana" />
+    <icon drawable="@drawable/themed_icon_facebook" name="Facebook" package="com.facebook.katana" />
     <icon drawable="@drawable/themed_icon_fairemail" name="FairEmail" package="eu.faircode.email" />
     <icon drawable="@drawable/themed_icon_fallout_shelter" name="Fallout Shelter" package="com.bethsoft.falloutshelter" />
     <icon drawable="@drawable/themed_icon_family_link" name="Google Family Link" package="com.google.android.apps.kids.familylink" />
