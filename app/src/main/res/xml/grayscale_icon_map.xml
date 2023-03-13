@@ -136,6 +136,7 @@
     <icon drawable="@drawable/themed_icon_aqua_mail" name="Aqua Mail" package="org.kman.AquaMail" />
     <icon drawable="@drawable/themed_icon_araz_supermarket" name="Araz Supermarket" package="com.araz" />
     <icon drawable="@drawable/themed_icon_art_station" name="Art Station" package="com.ballistiq.artstation" />
+    <icon drawable="@drawable/themed_icon_arts_culture" name="Arts &amp; Culture" package="com.google.android.apps.cultural" />
     <icon drawable="@drawable/themed_icon_aruba" name="Aruba PEC" package="it.aruba.pec.mobile" />
     <icon drawable="@drawable/themed_icon_askfm" name="ASKfm" package="com.askfm" />
     <icon drawable="@drawable/themed_icon_aspect_pro" name="Aspect Pro" package="com.andrewkhandr.aspectpro" />
@@ -194,6 +195,7 @@
     <icon drawable="@drawable/themed_icon_blackboard" name="Blackboard" package="com.blackboard.android.bbstudent" />
     <icon drawable="@drawable/themed_icon_blackhole" name="BlackHole" package="com.shadow.blackhole" />
     <icon drawable="@drawable/themed_icon_blinkit" name="Blinkit (formerly grofers)" package="com.grofers.customerapp" />
+    <icon drawable="@drawable/themed_icon_blogger" name="Blogger" package="com.google.android.apps.blogger" />
     <icon drawable="@drawable/themed_icon_blossom" name="Blossom" package="com.conceptivapps.blossom" />
     <icon drawable="@drawable/themed_icon_bms" name="BookMyShow" package="com.bt.bms" />
     <icon drawable="@drawable/themed_icon_bolt" name="Bolt" package="ee.mtakso.client" />
@@ -518,6 +520,7 @@
     <icon drawable="@drawable/themed_icon_google_assistant" name="Google Assistant" package="com.google.android.apps.googleassistant" />
     <icon drawable="@drawable/themed_icon_google_classroom" name="Google Classroom" package="com.google.android.apps.classroom" />
     <icon drawable="@drawable/themed_icon_google_fi" name="Google Fi" package="com.google.android.apps.tycho" />
+    <icon drawable="@drawable/themed_icon_google_go" name="Google Go" package="com.google.android.apps.searchlite" />
     <icon drawable="@drawable/themed_icon_google_maps_go" name="Google Maps GO" package="com.google.android.apps.mapslite" />
     <icon drawable="@drawable/themed_icon_google_one" name="Google One" package="com.google.android.apps.subscriptions.red" />
     <icon drawable="@drawable/themed_icon_google_opinion" name="Google Opinion Rewards" package="com.google.android.apps.paidtasks" />
@@ -846,6 +849,7 @@
     <icon drawable="@drawable/themed_icon_photon_camera" name="MISSING" package="com.particlesdevs.photoncamera" />
     <icon drawable="@drawable/themed_icon_photoroom" name="PhotoRoom Studio Photo Editor" package="com.photoroom.app" />
     <icon drawable="@drawable/themed_icon_photos" name="Google Photos" package="com.google.android.apps.photos" />
+    <icon drawable="@drawable/themed_icon_photoscan_google" name="PhotoScan" package="com.google.android.apps.photos.scanner" />
     <icon drawable="@drawable/themed_icon_phub" name="MISSING" package="com.app.pornhub" />
     <icon drawable="@drawable/themed_icon_physicswallah" name="MISSING" package="xyz.penpencil.physicswala" />
     <icon drawable="@drawable/themed_icon_picpay" name="MISSING" package="com.picpay" />
@@ -1297,8 +1301,10 @@
     <icon drawable="@drawable/themed_icon_youtube" name="MISSING" package="com.gold.android.youtube" />
     <icon drawable="@drawable/themed_icon_youtube" name="YouTube Revanced" package="app.revanced.android.youtube" />
     <icon drawable="@drawable/themed_icon_youtube" name="YouTube" package="com.google.android.youtube" />
+    <icon drawable="@drawable/themed_icon_youtube_kids" name="YouTube Kids" package="com.google.android.apps.youtube.kids" />
     <icon drawable="@drawable/themed_icon_youtube_music" name="YouTube Music Revanced" package="app.revanced.android.apps.youtube.music" />
     <icon drawable="@drawable/themed_icon_youtube_music" name="YouTube Music" package="com.google.android.apps.youtube.music" />
+    <icon drawable="@drawable/themed_icon_youtube_studio" name="YouTube Studio" package="com.google.android.apps.youtube.creator" />
     <icon drawable="@drawable/themed_icon_youtube_tv" name="YouTube TV" package="com.google.android.apps.youtube.unplugged" />
     <icon drawable="@drawable/themed_icon_yummly" name="Yummly" package="com.yummly.android" />
     <icon drawable="@drawable/themed_icon_yuola" name="Youla" package="com.allgoritm.youla" />
