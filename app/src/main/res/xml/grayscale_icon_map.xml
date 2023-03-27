@@ -287,10 +287,10 @@
     <icon drawable="@drawable/themed_icon_checkfirm" name="CheckFirm" package="com.illusion.checkfirm" />
     <icon drawable="@drawable/themed_icon_chess" name="Chess" package="com.chess" />
     <icon drawable="@drawable/themed_icon_chess_aifactory" name="Chess" package="uk.co.aifactory.chessfree" />
-    <icon drawable="@drawable/themed_icon_chrome_beta_s" name="Chrome Beta" package="com.chrome.beta" />
-    <icon drawable="@drawable/themed_icon_chrome_canary_s" name="Chrome Canary (Unstable)" package="com.chrome.canary" />
-    <icon drawable="@drawable/themed_icon_chrome_dev_s" name="Chrome Dev" package="com.chrome.dev" />
-    <icon drawable="@drawable/themed_icon_chrome_s" name="Google Chrome" package="com.android.chrome" />
+    <icon drawable="@drawable/themed_icon_chrome_beta" name="Chrome Beta" package="com.chrome.beta" />
+    <icon drawable="@drawable/themed_icon_chrome_canary" name="Chrome Canary (Unstable)" package="com.chrome.canary" />
+    <icon drawable="@drawable/themed_icon_chrome_dev" name="Chrome Dev" package="com.chrome.dev" />
+    <icon drawable="@drawable/themed_icon_chrome" name="Chrome" package="com.android.chrome" />
     <icon drawable="@drawable/themed_icon_cifra_club_academy" name="Cifra Club Academy" package="com.studiosol.cifraclub.academy" />
     <icon drawable="@drawable/themed_icon_cifra_club_metronome" name="Metronome Cifra Club" package="com.studiosol.metronomo" />
     <icon drawable="@drawable/themed_icon_cifra_club_tuner" name="Cifra Club Tuner" package="com.studiosol.afinadorlite" />
