@@ -265,6 +265,7 @@
     <icon drawable="@drawable/themed_icon_camera" name="Google Lens" package="com.google.android.apps.lens.example.release" />
     <icon drawable="@drawable/themed_icon_camera" name="Intelligent Scan" package="com.samsung.android.biometrics.service" />
     <icon drawable="@drawable/themed_icon_camera" name="LMC8.4" package="com.google.android.GoogleCameraLMCR13" />
+    <icon drawable="@drawable/themed_icon_camera" name="MISSING" package="com.ss.android.ugc.aweme" />
     <icon drawable="@drawable/themed_icon_camera" name="Open Camera" package="net.sourceforge.opencamera" />
     <icon drawable="@drawable/themed_icon_camera" name="Samsung 3D Scanner" package="com.samsung.android.scan3d" />
     <icon drawable="@drawable/themed_icon_camera" name="Samsung Quick measure" package="com.samsung.android.ruler" />
@@ -403,6 +404,7 @@
     <icon drawable="@drawable/themed_icon_energy_infinity" name="MISSING" package="com.infinitygames.loopenergy" />
     <icon drawable="@drawable/themed_icon_english_score" name="British Council EnglishScore" package="com.englishscore" />
     <icon drawable="@drawable/themed_icon_enki" name="MISSING" package="com.enki.insights" />
+    <icon drawable="@drawable/themed_icon_enpass" name="Enpass" package="io.enpass.app" />
     <icon drawable="@drawable/themed_icon_epicgames" name="MISSING" package="com.epicgames.portal" />
     <icon drawable="@drawable/themed_icon_epik" name="MISSING" package="com.snowcorp.epik" />
     <icon drawable="@drawable/themed_icon_es_explorer" name="ES File Explorer" package="com.estrongs.android.pop" />
