@@ -52,16 +52,17 @@ public class Data extends Thread {
         latestIcons.add(new Icon("Dominos", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_dominos, null)));
         latestIcons.add(new Icon("Enpass", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_enpass, null)));
         latestIcons.add(new Icon("GoogleGo", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_google_go, null)));
-        latestIcons.add(new Icon("Unison", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_intel_unison, null)));
+        latestIcons.add(new Icon("Intel Unison", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_intel_unison, null)));
         latestIcons.add(new Icon("IRCTC Rail", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_irctc_rail, null)));
         latestIcons.add(new Icon("Microsoft 365", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_microsoft_365, null)));
         latestIcons.add(new Icon("PhotoScan", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_photoscan_google, null)));
         latestIcons.add(new Icon("SpaceDesk", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_spacedesk, null)));
         latestIcons.add(new Icon("WiproNext", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_wipro_next, null)));
+        latestIcons.add(new Icon("Wallpapers", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_google_wallpaper, null)));
+        latestIcons.add(new Icon("Warframe", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_warframe, null)));
+        latestIcons.add(new Icon("Where is My Train", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_whereismytrain, null)));
         latestIcons.add(new Icon("YouTube Kids", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_youtube_kids, null)));
         latestIcons.add(new Icon("YouTube Studio", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_youtube_studio, null)));
-        latestIcons.add(new Icon("Wallpapers", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_google_wallpaper, null)));
-        latestIcons.add(new Icon("Where is My Train", ResourcesCompat.getDrawable(context.getResources(), R.drawable.themed_icon_whereismytrain, null)));
         //Request Icons
         //latestIcons.add(new Icon("Request More", ResourcesCompat.getDrawable(context.getResources(), R.drawable.ic_request, null), true));
     }
