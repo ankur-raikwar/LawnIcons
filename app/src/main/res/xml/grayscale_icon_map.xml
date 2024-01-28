@@ -155,6 +155,7 @@
     <icon drawable="@drawable/themed_icon_autodoc" name="AUTODOC" package="de.autodoc.gmbh" />
     <icon drawable="@drawable/themed_icon_autohz" name="AutoHZ" package="com.arter97.auto90" />
     <icon drawable="@drawable/themed_icon_audible" name="Audible" package="com.audible.application" />
+    <icon drawable="@drawable/themed_icon_audio_relay" name="AudioRelay" package="com.azefsw.audioconnect" />
     <icon drawable="@drawable/themed_icon_aosp_enhancer" name="AOSP Enhancer" package="com.looper.enhancer" />
     <icon drawable="@drawable/themed_icon_autotagger" name="AutoTagger" package="com.serg.chuprin.tageditor" />
     <icon drawable="@drawable/themed_icon_aviata" name="Aviata.kz" package="kz.glatis.aviata" />
@@ -609,6 +610,7 @@
     <icon drawable="@drawable/themed_icon_kde_connect" name="KDE Connect" package="org.kde.kdeconnect_tp" />
     <icon drawable="@drawable/themed_icon_keep" name="Google Keep" package="com.google.android.keep" />
     <icon drawable="@drawable/themed_icon_keiromaker" name="MISSING" package="com.keriomaker.smart" />
+    <icon drawable="@drawable/themed_icon_kernelsu" name="KernelSU" package="me.weishu.kernelsu" />
     <icon drawable="@drawable/themed_icon_khan_academy" name="Khan Academy" package="org.khanacademy.android" />
     <icon drawable="@drawable/themed_icon_kinemaster" name="KineMaster" package="com.nexstreaming.app.kinemasterfree" />
     <icon drawable="@drawable/themed_icon_kino_hd" name="MISSING" package="full.khd.app" />
@@ -1173,6 +1175,8 @@
     <icon drawable="@drawable/themed_icon_umico" name="MISSING" package="com.competo.umicoloy" />
     <icon drawable="@drawable/themed_icon_unbabel" name="Unbabel" package="com.unbabel.android.unbabel" />
     <icon drawable="@drawable/themed_icon_ungoogled_chromium" name="Ungoogled Chromium" package="org.ungoogled.chromium.stable" />
+    <icon drawable="@drawable/themed_icon_unified_remote" name="Unified Remote" package="com.Relmtech.Remote" />
+    <icon drawable="@drawable/themed_icon_unified_remote" name="Unified Remote" package="com.Relmtech.RemotePaid" />
     <icon drawable="@drawable/themed_icon_unsplash" name="Unsplash" package="unsplash.aaid" />
     <icon drawable="@drawable/themed_icon_utopiawalls" name="MISSING" package="dg.utopia.md3" />
     <icon drawable="@drawable/themed_icon_utorrent" name="µTorrent" package="com.utorrent.client" />
