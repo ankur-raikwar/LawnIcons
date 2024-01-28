@@ -110,7 +110,6 @@
     <icon drawable="@drawable/themed_icon_anotherwidget" name="Another Widget" package="com.tommasoberlose.anotherwidget" />
     <icon drawable="@drawable/themed_icon_antennapod" name="AntennaPod" package="de.danoeh.antennapod" />
     <icon drawable="@drawable/themed_icon_antutu" name="AnTuTu Lite" package="com.antutu.ABenchMark" />
-    <icon drawable="@drawable/themed_icon_anxcam_s" name="Xiaomi Camera" package="com.android.camera" />
     <icon drawable="@drawable/themed_icon_any" name="AnyDesk" package="com.anydesk.anydeskandroid" />
     <icon drawable="@drawable/themed_icon_anyboost" name="AnyBoost" package="anyboost.app" />
     <icon drawable="@drawable/themed_icon_anythingtopip" name="Anything to PiP" package="com.vitolaminafra.imagetopip" />
@@ -118,6 +117,7 @@
     <icon drawable="@drawable/themed_icon_aosp_clock" name="Xiaomi Clock" package="com.android.deskclock" />
     <icon drawable="@drawable/themed_icon_aov" name="Arena of Valor" package="com.ngame.allstar.eu" />
     <icon drawable="@drawable/themed_icon_camera" name="Aperture" package="org.lineageos.aperture" />
+    <icon drawable="@drawable/themed_icon_camera" name="Camera" package="com.android.camera" />
     <icon drawable="@drawable/themed_icon_apex_legends" name="Apex Legends Mobile" package="com.ea.gp.apexlegendsmobilefps" />
     <icon drawable="@drawable/themed_icon_apk_editor_master" name="Apk Editor Master" package="com.gmail.heagoo.apkeditor.pro" />
     <icon drawable="@drawable/themed_icon_apkmirror" name="APKMirror Installer" package="com.apkmirror.helper.prod" />
@@ -316,6 +316,7 @@
     <icon drawable="@drawable/themed_icon_coinvero" name="Candlestick Signals Patterns" package="com.candlestick_app" />
     <icon drawable="@drawable/themed_icon_colorwaver" name="Colorwaver" package="com.mrousavy.colorwaver" />
     <icon drawable="@drawable/themed_icon_companion" name="Home Assistant" package="io.homeassistant.companion.android" />
+    <icon drawable="@drawable/themed_icon_compass" name="Compass" package="com.android.compass" />
     <icon drawable="@drawable/themed_icon_compass" name="Compass" package="org.android.compass" />
     <icon drawable="@drawable/themed_icon_compass" name="Compass" package="apps.r.compass" />
     <icon drawable="@drawable/themed_icon_contacts" name="Google Contacts" package="com.google.android.contacts" />
@@ -923,6 +924,7 @@
     <icon drawable="@drawable/themed_icon_readwise" name="MISSING" package="com.readwise" />
     <icon drawable="@drawable/themed_icon_realme_link" name="realme Link" package="com.realme.link" />
     <icon drawable="@drawable/themed_icon_recorder" name="Google Recorder" package="com.google.android.apps.recorder" />
+    <icon drawable="@drawable/themed_icon_recorder" name="Recorder" package="com.android.recorder" />
     <icon drawable="@drawable/themed_icon_recorder_s" name="Audio Recorder" package="com.dimowner.audiorecorder" />
     <icon drawable="@drawable/themed_icon_reddit" name="Reddit" package="com.reddit.frontpage" />
     <icon drawable="@drawable/themed_icon_redlime" name="Periodic Table 2022" package="mendeleev.redlime" />
@@ -1190,6 +1192,7 @@
     <icon drawable="@drawable/themed_icon_viber" name="Viber" package="com.viber.voip" />
     <icon drawable="@drawable/themed_icon_video_converter_compressor" name="MISSING" package="com.inverseai.video_converter" />
     <icon drawable="@drawable/themed_icon_video_player" name="Just Video Player" package="com.brouken.player" />
+    <icon drawable="@drawable/themed_icon_videos" name="Videos Player" package="com.android.movie" />
     <icon drawable="@drawable/themed_icon_viewranger" name="ViewRanger" package="com.augmentra.viewranger.android" />
     <icon drawable="@drawable/themed_icon_viper_four_android_fx" name="ViPER4Android FX" package="com.pittvandewitt.viperfx" />
     <icon drawable="@drawable/themed_icon_vivacut" name="Video Editor APP - VivaCut" package="com.videoeditorpro.android" />
@@ -1303,8 +1306,10 @@
     <icon drawable="@drawable/themed_icon_youtube" name="MISSING" package="com.gold.android.youtube" />
     <icon drawable="@drawable/themed_icon_youtube" name="YouTube Revanced" package="app.revanced.android.youtube" />
     <icon drawable="@drawable/themed_icon_youtube" name="YouTube" package="com.google.android.youtube" />
+    <icon drawable="@drawable/themed_icon_youtube" name="YouTube ReVanced Extended" package="app.rvx.android.youtube" />
     <icon drawable="@drawable/themed_icon_youtube_kids" name="YouTube Kids" package="com.google.android.apps.youtube.kids" />
     <icon drawable="@drawable/themed_icon_youtube_music" name="YouTube Music Revanced" package="app.revanced.android.apps.youtube.music" />
+    <icon drawable="@drawable/themed_icon_youtube_music" name="YouTube Music Revanced Extended" package="app.rvx.android.apps.youtube.music" />
     <icon drawable="@drawable/themed_icon_youtube_music" name="YouTube Music" package="com.google.android.apps.youtube.music" />
     <icon drawable="@drawable/themed_icon_youtube_studio" name="YouTube Studio" package="com.google.android.apps.youtube.creator" />
     <icon drawable="@drawable/themed_icon_youtube_tv" name="YouTube TV" package="com.google.android.apps.youtube.unplugged" />
